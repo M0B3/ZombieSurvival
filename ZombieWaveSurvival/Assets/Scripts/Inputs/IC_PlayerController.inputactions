@@ -1,0 +1,23 @@
+{
+    "name": "IC_PlayerController",
+    "maps": [
+        {
+            "name": "BasePlayer",
+            "id": "ddeb1648-ec10-4f4a-8c4e-f1fcc283dd56",
+            "actions": [],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "MouseAKeyboard",
+            "bindingGroup": "MouseAKeyboard",
+            "devices": []
+        },
+        {
+            "name": "Controller",
+            "bindingGroup": "Controller",
+            "devices": []
+        }
+    ]
+}
